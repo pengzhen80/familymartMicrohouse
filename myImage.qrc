@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/pick-1.png</file>
+        <file>pics/takepage_cancel.png</file>
+        <file>pics/takepage_finish.png</file>
+        <file>pics/takepage_tips.png</file>
+        <file>pics/tip_boxMoving.png</file>
+        <file>pics/customerTake_phone.png</file>
+        <file>pics/homepage_background.png</file>
+        <file>pics/backgroud.png</file>
+        <file>pics/homepage_logo.png</file>
+        <file>pics/homepage_customertake_off.png</file>
+        <file>pics/homepage_multistore_off.png</file>
+        <file>pics/homepage_sevenday_on.png</file>
+        <file>pics/customerTakePage_background.png</file>
+        <file>pics/btn_backHome.png</file>
+        <file>pics/customerTakePage_take.png</file>
+        <file>pics/takePage_background.png</file>
+        <file>pics/tips_closeDoor.png</file>
+        <file>pics/multistore_store.png</file>
+        <file>pics/homePage_customerTake_on.png</file>
+        <file>pics/homePage_multiStore_on.png</file>
+        <file>pics/homePage_sevenDay_off.png</file>
+        <file>pics/multiStorePage_changeBox.png</file>
+    </qresource>
+</RCC>
